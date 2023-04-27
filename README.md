@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on Ethical Hacker
-- 📫 How to reach me anonp4nda@gmail.com
+- 📫 How to reach me aronbinoy33@gmail.com
 
 <!---
 aron-binoy/aron-binoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
